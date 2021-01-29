@@ -1,0 +1,100 @@
+Explain		interpret, clarify, illuminate, describe
+Big		huge, immense, large, enormous
+Bad		evil, corrupt, immoral, wicked
+Happy		satisfied, delighted, pleased, contented
+Awful		dreadful, abominable, terrible, bad
+Decide		resolve, settle, choose, determine
+None		no one, nobody, nothing, zero
+Put		establish, place, attach, set
+Number		figure, count, numeral, total
+Beautiful		attractive, lovely, handsome, pretty
+Price		value, terms, toll, cost
+Fat		fleshy, corpulent, stout, beefy
+Neat		orderly, clean, tidy, trim
+Hate		detest, despise, abhor, loathe
+Brave		dauntless, courageous, intrepid, fearless
+Plan		strategy, idea, design, scheme
+Fear		terror, dread, fright, alarm
+Old		ancient, weak, frail, feeble
+Destroy		ruin, waste, raze, demolish
+Come		arrive, near, approach, advance
+Angry		enraged, furious, mad, excited
+Stop		quit, discontinue, cease, halt
+Slow		late, gradual, leisurely, unhurried
+Difference		disagreement, inequity, contrast, dissimilarity
+Hello		traw, hars, csds, dlar
+Begin		start, launch, open, initiate
+Scared		afraid, terrified, alarmed, frightened
+Hurt		wound, damage, injure, harm
+Love		like, admire, fancy, esteem
+Cut		gash, slash, prick, nick
+Lazy		indolent, idle, slothful, inactive
+Bright		shiny, shining, gleaming, brilliant
+Enjoy		indulge in, be pleased, appreciate, delight in
+Hot		feverish, heated, warm, sweltering
+Fall		drop, topple, descend, plunge
+Moody		changeable, glum, temperamental, short-tempered
+Get		procure, acquire, secure, obtain
+Have		contain, hold, own, possess
+Dark		unlit, murky, gloomy, shadowy
+Quiet		mute, still, silent, soundless
+Popular		accepted, favorite, approved, well-liked
+Funny		humorous, droll, comic, amusing
+Think		deem, assume, judge, believe
+Famous		celebrated, renowned, famed, well-known
+Break		fracture, rupture, smash, shatter
+Cool		chilly, cold, wintry, frosty
+Store		stock, depot, shop, put
+Kill		assassinate, execute, slay, murder
+Noisy		stentorian, strident, earsplitting, loudly
+Great		remarkable, noteworthy, distinguished, worthy
+Help		encourage, aid, support, assist
+Calm		quiet, still, tranquil, peaceful
+Hide		mask, conceal, cloak, cover
+Fly		soar, flit, hover, wing
+Fast		speedy, fleet, rapid, quick
+Somewhat		a bit, a little, sort of, kind of
+Describe		characterize, picture, portray, narrate
+Story		legend, tale, myth, fable
+Eager		fervent, keen, enthusiastic, involved
+Use		utilize, spend, employ, exhaust
+Tell		show, expose, disclose, reveal
+Run		flee, elope, dash, escape
+Do		execute, enact, finish, carry out
+Anger		nettle, enrage, arouse, infuriate
+Good		superior, fine, wonderful, excellent
+Amazing		incredible, improbable, unbelievable, fabulous
+Reticent		
+Create		build, devise, make, develop
+All		complete, gross, entire, full
+New		unusual, original, fresh, unique
+Gross		improper, rude, coarse, indecent
+Ugly		shocking, hideous, frightful, frightening
+Check		see, test, ascertain, assure
+Look		gaze, see, watch, glance
+Delicious		appetizing, savory, delectable, luscious
+Strange		anomalous, aberrant, abnormal, bent
+Take		grasp, catch, hold, seize
+Keep		withhold, preserve, hold, retain
+True		proper, right, accurate, precise
+Crooked		curved, twisted, hooked, bent
+Predicament		problem, dilemma, pickle, quandary
+Little		small, diminutive, tiny, shrimp
+Nadir		
+Jog		sprint, run, lope, move fast
+Rather		
+Idea		thought, notion, concept, conception
+Show		present, display, exhibit, note
+Dangerous		hazardous, uncertain, perilous, risky
+Sad		uncomfortable, heart-broken, wretched, miserable
+Trouble		anguish, worry, anxiety, distress
+End		conclude, stop, finish, terminate
+Make		create, originate, invent, beget
+Normal		familiar, routine, daily, traditional
+Move		go, creep, plod, crawl
+Mischievous		prankish, roguish, playful, naughty
+Apply		use, employ, implement, give
+Go		depart, move, disappear, fade
+False		fake, wrong, counterfeit, fraudulent
+Mark		tag, ticket, price, label
+Dull		tiring, tiresome, boring, 
